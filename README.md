@@ -1,7 +1,10 @@
-### Hey, here's what i'm working on:
+### Hello, check out my projects!
 
-- 🌱  I’m currently learning the React-Three-Fiber ecosystem for 3d graphics using WebGL, React, and Three.JS
-- 👯  Always looking to collaborate on projects using React
-- 📫  How to reach me: james@jamesworden.com
+- 🌱  https://www.classroomgroups.com, software to help teachers group students based on their abilities.
+- 🃏  https://www.chessofcards.com, a fast paced, strategic playing card game.
 
-- I recently created https://www.bobworden.com using Gatsby and Wordpress, check it out!
+Feel free to reach out if you want to collaborate.
+
+- 📫  james@jamesworden.com
+
+
